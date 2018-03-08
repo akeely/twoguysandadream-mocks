@@ -1,0 +1,120 @@
+{
+  "id": 1,
+  "name": "Test League",
+  "settings": {
+    "rosterSize": 24,
+    "budget": 260,
+    "minimumBid": 0.5,
+    "expirationTime": 1520429939855
+  },
+  "auctionBoard": [
+    {
+      "amount": 15,
+      "expirationTime": 123,
+      "player": {
+        "id": 123,
+        "name": "Mike Trout",
+        "positions": [
+          {
+            "name": "OF"
+          }
+        ],
+        "realTeam": "LAA",
+        "rank": 7
+      },
+      "teamId": 1,
+      "team": "Test Team",
+      "secondsRemaining": -1520429819
+    },
+    {
+      "amount": 24,
+      "expirationTime": 123,
+      "player": {
+        "id": 123,
+        "name": "Corey Kluber",
+        "positions": [
+          {
+            "name": "OF"
+          }
+        ],
+        "realTeam": "LAA",
+        "rank": 7
+      },
+      "teamId": 1,
+      "team": "Test Team",
+      "secondsRemaining": -1520429819
+    },
+    {
+      "amount": 2,
+      "expirationTime": 123,
+      "player": {
+        "id": 123,
+        "name": "Zach Britton",
+        "positions": [
+          {
+            "name": "OF"
+          }
+        ],
+        "realTeam": "LAA",
+        "rank": 7
+      },
+      "teamId": 1,
+      "team": "Test Team",
+      "secondsRemaining": -1520429819
+    },
+    {
+      "amount": 15,
+      "expirationTime": 123,
+      "player": {
+        "id": 123,
+        "name": "Daniel Murphy",
+        "positions": [
+          {
+            "name": "OF"
+          }
+        ],
+        "realTeam": "LAA",
+        "rank": 7
+      },
+      "teamId": 1,
+      "team": "Test Team",
+      "secondsRemaining": -1520429819
+    },
+    {
+      "amount": 19,
+      "expirationTime": 123,
+      "player": {
+        "id": 123,
+        "name": "Joey Votto",
+        "positions": [
+          {
+            "name": "OF"
+          }
+        ],
+        "realTeam": "LAA",
+        "rank": 7
+      },
+      "teamId": 1,
+      "team": "Test Team",
+      "secondsRemaining": -1520429819
+    }
+  ],
+  "teams": [
+    {
+      "id": 1,
+      "name": "Test Team",
+      "roster": [],
+      "budgetAdjustment": 0,
+      "adds": 0
+    }
+  ],
+  "paused": false,
+  "teamStatistics": {
+    "1": {
+      "availableBudget": 260,
+      "maxBid": 248.5,
+      "openRosterSpots": 24,
+      "adds": 0
+    }
+  }
+}

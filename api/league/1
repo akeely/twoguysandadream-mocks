@@ -1,0 +1,1 @@
+{"id":1,"name":"Test League","settings":{"rosterSize":24,"budget":260,"minimumBid":0.5,"expirationTime":1520427914275},"auctionBoard":[],"teams":[{"id":1,"name":"Test Team","roster":[],"budgetAdjustment":0,"adds":0}],"teamStatistics":{"1":{"availableBudget":260,"maxBid":248.5,"openRosterSpots":24,"adds":0}},"paused":false}
