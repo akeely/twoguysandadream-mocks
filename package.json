@@ -1,0 +1,12 @@
+{
+  "name": "twoguysandadream-mocks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/akeely/twoguysandadream-mocks.git",
+  "author": "andrew.keely@gmail.com",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
